@@ -26,6 +26,7 @@ d가 c에 나타날 확률:P(c|d) = P(d|c)P(c) / P(d) <br>
 + 즉, 행의 단어가 열의 문서에 나오는 횟수 <br>
 
 ### Word-word co-occurrence matirx<br>
++ 관계 기반
 ```
 This matrix is thus of dimensionality |V|x|V|,
 and each cell records the number of times the row (target) word 
